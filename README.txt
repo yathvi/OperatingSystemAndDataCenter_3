@@ -31,3 +31,15 @@ NETWORK				<==>	https://en.wikipedia.org/wiki/File:003_Starlink_satellites_passi
 List of artificial objects leaving the Solar System
 ===================================================
 https://en.wikipedia.org/wiki/List_of_artificial_objects_leaving_the_Solar_System
+
+
+URL Link 1
+----------
+https://www.worldometers.info/world-population/
+
+
+URL Link 2
+----------
+https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia
+or
+https://archive.org/about/
