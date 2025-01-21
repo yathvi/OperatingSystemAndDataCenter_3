@@ -1,3 +1,5 @@
+Note: As of now I am not working on this.
+
 If you want to view the contents in Browser (https://github.com/)
 	Then Select or Click on any .txt file
 	Edit file --> Edit in place
