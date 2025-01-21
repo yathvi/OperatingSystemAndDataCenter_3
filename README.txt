@@ -1,3 +1,10 @@
+If you want to view the contents in Browser (https://github.com/)
+	Then Select or Click on any .txt file
+	Edit file --> Edit in place
+	Indent mode --> Tabs
+	Indent size --> 4
+	Line wrap mode --> No wrap
+
  ================================================ 
 ||	<==> OPERATING SYSTEMS & DATA CENTERS <==>	||
  ================================================
